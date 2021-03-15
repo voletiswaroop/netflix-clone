@@ -1,0 +1,23 @@
+.footer-wrapper {
+  background-color: #000;
+  padding: 50px 0;
+}
+
+.footer-wrapper * {
+  color: #ccc;
+}
+
+.footer-links {
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+
+.footer-links li {
+  float: left;
+  padding-right: 5px;
+  cursor: pointer;
+}
+
+.footer-bottom-links {
+  padding-top: 50px;
+}
